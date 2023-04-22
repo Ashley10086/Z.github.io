@@ -4,9 +4,10 @@ nav: Aboutme
 nav_order: 2
 ---
 
-## Education
-Cornell University,                             Expected Dec. 2023
+#### Education
+###### Cornell University,                         
 Master of Engineering in Financial Engineering
+###### University of Nottingham
 
 Selected Coursework:
 Big Data Technologies, Python for Finance, Machine Learning, Quantitative Methods of Financial Risk, Management Investment and Portfolio Management, Derivative Securities
