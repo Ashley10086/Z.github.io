@@ -5,6 +5,6 @@ nav_order: 1
 ---
 
 
-{% include figure.html img="/docs/footprint.jpg" alt="My footprint" %}
+{% include figure.html img="/docs/footprint.png" alt="My footprint" %}
 
 
