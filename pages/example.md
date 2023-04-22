@@ -1,6 +1,6 @@
 ---
-title: Example Page
-nav: Example
+title: Welcome to My World
+nav: My footprint
 nav_order: 1
 ---
 
