@@ -1,7 +1,7 @@
 ---
 title: Welcome to My World
 nav: My footprint
-nav_order: 2
+nav_order: 1
 ---
 
 
