@@ -1,9 +1,8 @@
 ---
-title: Shuhan Zhang
+title: Ash.Zhang
 nav: About me
 nav_order: 2
 ---
-============
 
 -------------------     ----------------------------
 -------------------     ----------------------------
@@ -41,44 +40,20 @@ Technical Experience
 * Developed an asset allocation strategy using Markowitz efficient frontier to achieve a 12% increase in expected returns.
 * Performed quantitative and qualitative analysis to identify opportunities for return enhancement through overlay strategies
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Share Performance Analysis, University of Nottingham**
+*Identified the stationarity and seasonality by assessing sample ACF and sample PACF of the quarterly earnings over 10 years; removed the non-stational pattern after differencing the original dataset.
+*Fit the modified model to ARIMA model; assessed the fitness of selected model with Ljung-Box test, AIC values and parameter hypothesis test.
+
+**Risk Analysis of Credit Score, University of Nottingham**
+*Performed exploratory analysis by R and identified the correlation between covariates and credit score.
+*Performed stepwise regression to investigate a smaller subset of covariates and fit the final model by linear regression.
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   Python (numpy, sklearn), R (quantmod, rugarch, tseries), C++, SQL, MATLAB, Tableaur
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Activities
 ----------------------------------------
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+*International travel: Planned annual trips for a group of 6 to Australia, Korea and Japan.
+*Community service: Actively volunteer at local charity shop in Nottingham to help children in poverty
 
