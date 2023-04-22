@@ -1,14 +1,18 @@
 ---
-title: My Experience
+title: Bio
 nav: Aboutme
 nav_order: 2
 ---
 
 ## Education
-
-### Cornell University, College of Engineering, Ithaca, NY                       Expected Dec. 2023
+Cornell University,                             Expected Dec. 2023
 Master of Engineering in Financial Engineering
 
+Selected Coursework:
+Big Data Technologies, Python for Finance, Machine Learning, Quantitative Methods of Financial Risk, Management Investment and Portfolio Management, Derivative Securities
+
+
+University of Nottingham,                        Aug.2022
 
 
 [bootstrap-template](https://github.com/thecdil/bootstrap-template) is a basic template repository to create a [Bootstrap](https://getbootstrap.com/) site using Jekyll on GitHub Pages (or where every you want to host it). 
