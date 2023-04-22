@@ -19,6 +19,7 @@ Education
 :   **BSc, Statistics**; University of Nottingham (UK)
 
     *Coursework: Statistical Inference, Probability Models and Methods, Scientific Computation with C++, Stochastic Models.*
+    
 -------------------     ----------------------------
 -------------------     ----------------------------
 
