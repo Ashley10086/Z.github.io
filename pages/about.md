@@ -19,6 +19,8 @@ Education
 :   **BSc, Statistics**; University of Nottingham (UK)
 
     *Coursework: Statistical Inference, Probability Models and Methods, Scientific Computation with C++, Stochastic Models.*
+-------------------     ----------------------------
+-------------------     ----------------------------
 
 Experience
 ----------
@@ -32,6 +34,8 @@ Experience
 * Developed and implemented an automated data input process using ETL tools and SQL scripting, reducing manual data entry time by 50% and improving data accuracy by 20%.
 * Analyzed metrics (active users, retention, engagement) with Tableau and modeled user journey and behavior to offer feedback for growth.
 
+-------------------     ----------------------------
+-------------------     ----------------------------
 
 Technical Experience
 --------------------
@@ -48,12 +52,16 @@ Technical Experience
 *Performed exploratory analysis by R and identified the correlation between covariates and credit score.
 *Performed stepwise regression to investigate a smaller subset of covariates and fit the final model by linear regression.
 
+-------------------     ----------------------------
+-------------------     ----------------------------
+
 Programming Languages
-:   Python (numpy, sklearn), R (quantmod, rugarch, tseries), C++, SQL, MATLAB, Tableaur
+--------------------------------
+Python (numpy, sklearn), R (quantmod, rugarch, tseries), C++, SQL, MATLAB, Tableaur
 
 Activities
 ----------------------------------------
 
-*International travel: Planned annual trips for a group of 6 to Australia, Korea and Japan.
-*Community service: Actively volunteer at local charity shop in Nottingham to help children in poverty
+* International travel: Planned annual trips for a group of 6 to Australia, Korea and Japan.
+* Community service: Actively volunteer at local charity shop in Nottingham to help children in poverty
 
