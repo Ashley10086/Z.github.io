@@ -1,10 +1,8 @@
 ---
-title: My Experience
-nav: Aboutme
+title: Shuhan Zhang
+nav: About me
 nav_order: 2
 ---
-
-Shuhan Zhang
 ============
 
 -------------------     ----------------------------
@@ -14,45 +12,34 @@ Education
 ---------
 
 2022-2023 (expected)
-:   **Meng, Financial Engineering**; Awesome University (MyTown)
+:   **Meng, Financial Engineering**; Cornell University (US)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Coursework: Big Data Technologies, Python for Finance, Machine Learning, Quantitative Methods of Financial Risk, Management Investment and Portfolio Management, Derivative Securities*
 
 2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+:   **BSc, Statistics**; University of Nottingham (UK)
 
-    *Minor: Awesomeology*
+    *Coursework: Statistical Inference, Probability Models and Methods, Scientific Computation with C++, Stochastic Models.*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Quant Analyst:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Conducted data cleaning and validation on large datasets, using Python to identify and correct inconsistencies in data.
+* Conducted in-depth research on factors affecting investment returns, including macroeconomic indicators, sector performance, and company financial metrics.
 
-* First item
+**Data Analyst:**
+* Developed and implemented an automated data input process using ETL tools and SQL scripting, reducing manual data entry time by 50% and improving data accuracy by 20%.
+* Analyzed metrics (active users, retention, engagement) with Tableau and modeled user journey and behavior to offer feedback for growth.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**Investment Policy at the Hewlett Foundation, Cornell University Feb. 2023**
+* Developed an asset allocation strategy using Markowitz efficient frontier to achieve a 12% increase in expected returns.
+* Performed quantitative and qualitative analysis to identify opportunities for return enhancement through overlay strategies
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
