@@ -13,7 +13,7 @@ On my way exploring the world!
 
 --------------------------------
 --------------------------------
-Guess where will be my next destination ！
+Guess what is my next destination ！
 
 
 
