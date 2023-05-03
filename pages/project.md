@@ -1,6 +1,6 @@
 ---
 title: My Project
-nav: My project
+nav: Projects
 nav_order: 3
 ---
 
