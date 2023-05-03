@@ -45,12 +45,16 @@ Technical Experience
 * Developed an asset allocation strategy using Markowitz efficient frontier to achieve a 12% increase in expected returns.
 * Performed quantitative and qualitative analysis to identify opportunities for return enhancement through overlay strategies
 
-**Share Performance Analysis, University of Nottingham**
-*Identified the stationarity and seasonality by assessing sample ACF and sample PACF of the quarterly earnings over 10 years; removed the non-stational pattern after differencing the original dataset.
+**Share Performance Analysis, University of Nottingham**  
+
+*Identified the stationarity and seasonality by assessing sample ACF and sample PACF of the quarterly earnings over 10 years; removed the non-stational pattern after differencing the original dataset.  
+
 *Fit the modified model to ARIMA model; assessed the fitness of selected model with Ljung-Box test, AIC values and parameter hypothesis test.
 
-**Risk Analysis of Credit Score, University of Nottingham**
-*Performed exploratory analysis by R and identified the correlation between covariates and credit score.
+**Risk Analysis of Credit Score, University of Nottingham**  
+
+*Performed exploratory analysis by R and identified the correlation between covariates and credit score.  
+
 *Performed stepwise regression to investigate a smaller subset of covariates and fit the final model by linear regression.
 
 -------------------     ----------------------------
