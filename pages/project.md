@@ -29,6 +29,7 @@ We now consider the factor variables
  {% include figure.html img="https://sm.ms/image/oBTk4jxbmd5HpnA" %} 
  {% include figure.html img="https://sm.ms/image/9hjXpJcrM8GSx1v" %}   
  
+ 
  ---------------------------------------------------------------------
  ----------------------------------------------------------------------
 Based on the plots, individuals with the following characteristics seem to have higher credit score: Large amount of balance on current account, loan for business or training, Very Large amount of savings, female, believe in Coapp, other current loan plan for stores, foreign worker. The relationship between History and CreditScore needs particular attention as it shows individual with worse credit history earn higher credit score, which violates the common sense.
