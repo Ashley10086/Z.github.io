@@ -1,8 +1,5 @@
 ---
-layout: post
-title: My projects
-nav: Projects
-nav_order: 3
+title: my project
 ---
 
 # Data Analysis for Credit Score  
