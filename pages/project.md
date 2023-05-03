@@ -5,7 +5,6 @@ nav_order: 3
 ---
 
 # Data Analysis for Credit Score  
-
 ### Exploratory Analysis
 The data set of Train consists of 21 measurements on 800 individuals. For each individual, credit score (in CreditScore) has been measured, along with the following 20 variables:
 
