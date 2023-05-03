@@ -1,5 +1,7 @@
 ---
-title: my project
+title: My Project
+nav: My project
+nav_order: 3
 ---
 
 # Data Analysis for Credit Score  
