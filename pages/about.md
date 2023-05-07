@@ -15,7 +15,7 @@ Education
 
     *Coursework: Big Data Technologies, Python for Finance, Machine Learning, Quantitative Methods of Financial Risk, Management Investment and Portfolio Management, Derivative Securities*
 
-2007-2010
+2018-2022
 :   **BSc, Statistics**; University of Nottingham (UK)
 
     *Coursework: Statistical Inference, Probability Models and Methods, Scientific Computation with C++, Stochastic Models.*
